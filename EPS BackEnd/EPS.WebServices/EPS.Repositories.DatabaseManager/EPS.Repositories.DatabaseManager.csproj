@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EPS.Common.Models\EPS.Common.Models.csproj" />
+    <ProjectReference Include="..\EPS.Common.Reads\EPS.Common.Reads.csproj" />
+    <ProjectReference Include="..\EPS.Common.Writes\EPS.Common.Writes.csproj" />
+  </ItemGroup>
+
+</Project>

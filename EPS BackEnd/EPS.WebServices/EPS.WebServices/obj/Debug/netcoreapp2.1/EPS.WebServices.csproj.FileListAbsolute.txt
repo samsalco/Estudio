@@ -1,0 +1,93 @@
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.deps.json
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.json
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.dev.json
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.dll
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.pdb
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CoreCompileInputs.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfoInputs.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorTargetAssemblyInfo.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.dll
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.pdb
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csprojAssemblyReference.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.deps.json
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.json
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.dev.json
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csprojAssemblyReference.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CoreCompileInputs.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfoInputs.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorTargetAssemblyInfo.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Models.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Models.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CopyComplete
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Reads.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Managers.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Managers.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Reads.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.deps.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.dev.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Models.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Reads.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Writes.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Managers.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Models.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Managers.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Reads.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Writes.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csprojAssemblyReference.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cs
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfo.cs
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorTargetAssemblyInfo.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CopyComplete
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.deps.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.runtimeconfig.dev.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.WebServices.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Models.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Reads.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Writes.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Managers.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Models.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Managers.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Reads.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Common.Writes.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csprojAssemblyReference.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CoreCompileInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorAssemblyInfo.cs
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfoInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.AssemblyInfo.cs
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.RazorTargetAssemblyInfo.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.csproj.CopyComplete
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.WebServices\obj\Debug\netcoreapp2.1\EPS.WebServices.pdb

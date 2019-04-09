@@ -1,0 +1,58 @@
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.deps.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.runtimeconfig.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.runtimeconfig.dev.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Models.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Reads.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Writes.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Managers.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.WebServices.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.WebServices.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Models.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Reads.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Writes.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Managers.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.csprojAssemblyReference.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.AssemblyInfo.cs
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.csproj.CopyComplete
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.deps.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.runtimeconfig.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.runtimeconfig.dev.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.UnitTest.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Models.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Reads.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Writes.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Managers.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.WebServices.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.WebServices.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Models.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Reads.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Common.Writes.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Managers.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\bin\Debug\netcoreapp2.1\EPS.Repositories.DatabaseManager.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.csprojAssemblyReference.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.csproj.CoreCompileInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.AssemblyInfoInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.AssemblyInfo.cs
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.csproj.CopyComplete
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.UnitTest\obj\Debug\netcoreapp2.1\EPS.UnitTest.pdb

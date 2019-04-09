@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<querys>
+  <query id="EXISTS_USER" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+      SELECT usunom FROM epsusu WHERE usucod = @usucod AND usucla = @usucla
+      ]]>
+    </provider>
+  </query>
+  <query id="POST_USER" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+           INSERT INTO epsusu (usucod, usucla, usuact, usunom)
+                VALUES (@usucod, @usucla, @usuact, @usunom)
+      ]]>
+    </provider>
+  </query>
+
+
+  <query id="GET_TABLE_SERIAL" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ SELECT IDENT_CURRENT(@tabname) ]]>
+    </provider>
+  </query>
+
+
+  <query id="POST_MATERIAL" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+           INSERT INTO epsmat (matpre, matcan, matobs, matcod)
+                VALUES (@matpre, @matcan, @matobs,  @matcod)
+      ]]>
+    </provider>
+  </query>
+
+  <query id="POST_MEDICINE" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+           INSERT INTO epsmed (meddos, meduni, medfre, meddur, medpos, medobs, medcod)
+                VALUES (@meddos, @meduni, @medfre, @meddur, @medpos, @medobs, @medcod)
+      ]]>
+    </provider>
+  </query>
+
+  <query id="POST_LABORATORY" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+           INSERT INTO epslab (labcan, labfre, labobs, labcod)
+                VALUES (@labcan, @labfre, @labobs, @labcod)
+      ]]>
+    </provider>
+  </query>
+
+  <query id="GET_NEX_SECUENCE_LABORATORY" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+            SELECT ISNULL(MAX(proide),0)+1 FROM epspro
+      ]]>
+    </provider>
+  </query>
+  <query id="GET_TABLE_SERIAL" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ SELECT IDENT_CURRENT(@tabname) ]]>
+    </provider>
+  </query>
+
+
+  <query id="POST_PROTOCOL" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+           INSERT INTO epspro (proide, procon, proori)
+                VALUES (@proide, @procon, @proori)
+      ]]>
+    </provider>
+  </query>
+
+  <query id="POST_ORDERPATIENT" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+           INSERT INTO epsopp (oppcon, opphis, oppori, oppfec, oppest, oppusu)
+                VALUES (@oppcon, @opphis, @oppori, @oppfec, @oppest, @oppusu)
+      ]]>
+    </provider>
+  </query>
+
+
+
+  
+  
+</querys>

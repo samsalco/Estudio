@@ -1,0 +1,103 @@
+Adicionar Nuget: System.Data.SqlClient
+
+1. Crear proyecto NetCore WebAPI sin https.
+     -Carpeta llamada Context 
+        -ConnectionContext.cs
+        -ApiControllerBase.cs
+     -Carpeta llamada ViewModels
+
+2. Crear poryecto NetStandar Para     
+    *Manager
+    *Models	
+    *Reads
+        Carpeta Resources
+              -Queries.xml
+              -ReadResources.resx
+        Carpeta Utils
+              -ReadsConstants.cs  Aqui van las constantes de los querys
+              -ResourceHelper.cs
+     *xUnit Test Project NetCOre
+	
+
+5.Adicionar conexion en appsettings.json
+6.Injectarlo en Startup.cs
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionContext": {
+    "Provider": "Sql",
+    "ConnectionString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=WebApi;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  }
+}
+
+
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1)
+                .AddJsonOptions(options => {
+                    var resolver = options.SerializerSettings.ContractResolver;
+                    if (resolver != null)
+                        (resolver as DefaultContractResolver).NamingStrategy = null;
+                }
+                );
+            services.Configure<ConnectionContext>(Configuration.GetSection("ConnectionContext"));
+        }
+
+         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        {
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+
+            app.UseCors(options => options.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader());
+
+            app.UseMvc();
+        }
+
+
+7. Crear entidades en Models
+8. Crear Handlers en Reads
+9. Crear Managers
+    --deben tener propiedade de Provider y ConnectionString
+10. Crear viewmodels
+    --deben tener readonly EnsayoManager manager  y constructor asi:
+        public EnsayoViewModel(string connectionString, string provider)
+        {
+            manager = new EnsayoManager(connectionString, provider);
+        }
+
+unit test: 
+Microsoft.AspNetCore.Mvc.Abstractions
+Microsoft.AspNetCore.Mvc.Core
+    
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------
+
+CREATE TABLE [dbo].[Estudiante]
+(
+	[Id] INT NOT NULL, 
+    [identificacion] NVARCHAR(50) NOT NULL, 
+    [tipoidentificacion] NVARCHAR(50) NOT NULL, 
+    [nombre1] NVARCHAR(50) NULL, 
+    [nombre2] NVARCHAR(50) NULL, 
+    [apellido1] NVARCHAR(50) NULL    
+)
+
+ALTER TABLE [Estudiante] ADD CONSTRAINT estudiante_i1 PRIMARY KEY (identificacion, tipoidentificacion)

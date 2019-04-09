@@ -1,0 +1,29 @@
+<p>
+  Buscar informacion de un paciente:
+</p>
+<input type="text" [(ngModel)]="history">
+
+<button (click)="GetPatient()">Buscar Paciente</button>
+
+<p>
+  {{patient?.FirstName}} {{patient?.SecondName}} {{patient?.FirstLastName}} {{patient?.SecondLastName}}
+</p>
+
+<p>
+  {{patient?.IdentificationType}} {{patient?.Identification}}
+</p>
+
+
+<div *ngIf="patient?.Genre=='F'">
+   Femenino
+</div>
+
+<div *ngIf="patient?.Genre=='M'">
+  Masculino
+</div>
+
+<p *ngIf="patient?.BirthDate">
+  Fecha de nacimiento: {{patient?.BirthDate}}
+</p>
+
+<button (click)="Medicines()">Ir a Medicamentos</button>

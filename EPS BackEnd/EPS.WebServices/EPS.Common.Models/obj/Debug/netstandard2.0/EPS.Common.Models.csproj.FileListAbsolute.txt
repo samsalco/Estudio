@@ -1,0 +1,36 @@
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.deps.json
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csprojAssemblyReference.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfoInputs.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.dll
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.deps.json
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csprojAssemblyReference.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfoInputs.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.deps.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csprojAssemblyReference.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfo.cs
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.deps.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csproj.CoreCompileInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfoInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.AssemblyInfo.cs
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Models\obj\Debug\netstandard2.0\EPS.Common.Models.csprojAssemblyReference.cache

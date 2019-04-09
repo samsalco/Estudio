@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<querys>
+  <query id="GET_USER" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+      SELECT usucod, usucla, usuact, usunom FROM epsusu WHERE usucod = @usucod AND usucla = @usucla
+      ]]>
+    </provider>
+  </query>
+  <query id="GET_NEX_SECUENCE_LABORATORY" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+            SELECT ISNULL(MAX(proide),0)+1 FROM epspro
+      ]]>
+    </provider>
+  </query>
+  <query id="GET_TABLE_SERIAL" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ SELECT IDENT_CURRENT(@tabname) ]]>
+    </provider>
+  </query>
+
+  <query id="GET_ORDERBY_PATIENT" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+          SELECT oppide,  oppcon, opphis, oppori, oppfec, oppest, oppusu 
+            FROM epsopp
+           WHERE opphis = @opphis      
+      ]]>
+    </provider>
+  </query>
+
+
+  <query id="GET_PATIENT_PROTOCOLOS" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+          SELECT proide, procon, proori
+            FROM epspro
+           WHERE proide = @proide
+      ]]>
+    </provider>
+  </query>
+
+  <query id="GET_PATIENT_MEDICAMENTS" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+          SELECT medide, meddos, meduni, medfre, meddur, medpos, medobs, medcod 
+            FROM epsmed
+           WHERE medide = @medide
+      ]]>
+    </provider>
+  </query>
+
+  <query id="GET_PATIENT_MATERIALS" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+      SELECT matide, matpre, matcan, matobs, matcod
+        FROM epsmat
+       WHERE matide = @matide
+      ]]>
+    </provider>
+  </query>
+
+  <query id="GET_PATIENT_LABORATORIES" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+        SELECT labide, labcan, labfre, labobs, labcod
+          FROM epslab
+         WHERE labide = @labide
+      ]]>
+    </provider>
+  </query>
+
+  <query id="GET_PATIENT" description="" author="VFRANCO">
+    <provider Informix="yes" Oracle="yes" SqlClient="yes">
+      <![CDATA[ 
+        SELECT pachis, pacide, pactid, pacnom, pacno2, pacap1, pacap2, pacsex, pacnac
+          FROM epspac 
+         WHERE pachis  = @pachis
+      ]]>
+    </provider>
+  </query>
+  
+</querys>

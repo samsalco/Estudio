@@ -1,0 +1,49 @@
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.deps.json
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.dll
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.pdb
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CoreCompileInputs.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfoInputs.cache
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.dll
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.pdb
+C:\Users\vicfrapo\Desktop\BackEnd EPS\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csprojAssemblyReference.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.deps.json
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csprojAssemblyReference.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CoreCompileInputs.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfoInputs.cache
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfo.cs
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+C:\Users\vicfrapo\Desktop\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CopyComplete
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.deps.json
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csprojAssemblyReference.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.Resources.ReadResources.resources
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.GenerateResource.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfo.cs
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CopyComplete
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.dll
+D:\Documentos\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.deps.json
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Reads.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Models.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\bin\Debug\netstandard2.0\EPS.Common.Models.pdb
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csprojAssemblyReference.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.Resources.ReadResources.resources
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.GenerateResource.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CoreCompileInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfoInputs.cache
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.AssemblyInfo.cs
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.csproj.CopyComplete
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.dll
+E:\Estudio y Capacitaciones\Proyecto Web EPS\EPS BackEnd\EPS.WebServices\EPS.Common.Reads\obj\Debug\netstandard2.0\EPS.Common.Reads.pdb
