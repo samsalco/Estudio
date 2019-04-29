@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppsWeb.Business.DatabaseManager\AppsWeb.Business.DatabaseManager.csproj" />
+    <ProjectReference Include="..\AppsWeb.Business.Repositories\AppsWeb.Business.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\AppsWeb.Common.Models\AppsWeb.Common.Models.csproj" />
+    <ProjectReference Include="..\..\Common\AppsWeb.Common.Read\AppsWeb.Common.Read.csproj" />
+    <ProjectReference Include="..\..\Common\AppsWeb.Common.Writes\AppsWeb.Common.Writes.csproj" />
+    <ProjectReference Include="..\AppsWeb.Business.DatabaseManager\AppsWeb.Business.DatabaseManager.csproj" />
+  </ItemGroup>
+
+</Project>
