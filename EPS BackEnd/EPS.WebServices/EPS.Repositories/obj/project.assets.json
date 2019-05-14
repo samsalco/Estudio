@@ -901,11 +901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories\\EPS.Repositories.csproj",
+      "projectUniqueName": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories\\EPS.Repositories.csproj",
       "projectName": "EPS.Repositories",
-      "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories\\EPS.Repositories.csproj",
+      "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories\\EPS.Repositories.csproj",
       "packagesPath": "C:\\Users\\Adminest\\.nuget\\packages\\",
-      "outputPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories\\obj\\",
+      "outputPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -924,8 +924,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj": {
-              "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj"
+            "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj": {
+              "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj"
             }
           }
         }

@@ -9631,11 +9631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.UnitTest\\EPS.UnitTest.csproj",
+      "projectUniqueName": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.UnitTest\\EPS.UnitTest.csproj",
       "projectName": "EPS.UnitTest",
-      "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.UnitTest\\EPS.UnitTest.csproj",
+      "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.UnitTest\\EPS.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Adminest\\.nuget\\packages\\",
-      "outputPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.UnitTest\\obj\\",
+      "outputPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9654,8 +9654,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.WebServices\\EPS.WebServices.csproj": {
-              "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.WebServices\\EPS.WebServices.csproj"
+            "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.WebServices\\EPS.WebServices.csproj": {
+              "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.WebServices\\EPS.WebServices.csproj"
             }
           }
         }

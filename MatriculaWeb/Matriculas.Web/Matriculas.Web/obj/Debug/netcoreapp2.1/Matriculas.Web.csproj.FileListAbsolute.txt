@@ -1,0 +1,14 @@
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\bin\Debug\netcoreapp2.1\Matriculas.Web.deps.json
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\bin\Debug\netcoreapp2.1\Matriculas.Web.runtimeconfig.json
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\bin\Debug\netcoreapp2.1\Matriculas.Web.runtimeconfig.dev.json
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\bin\Debug\netcoreapp2.1\Matriculas.Web.dll
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\bin\Debug\netcoreapp2.1\Matriculas.Web.pdb
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.csprojAssemblyReference.cache
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.csproj.CoreCompileInputs.cache
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.RazorAssemblyInfo.cache
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.RazorAssemblyInfo.cs
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.AssemblyInfoInputs.cache
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.AssemblyInfo.cs
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.RazorTargetAssemblyInfo.cache
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.dll
+C:\Estudio\ProyectoWebEPS\MatriculaWeb\Matriculas.Web\Matriculas.Web\obj\Debug\netcoreapp2.1\Matriculas.Web.pdb

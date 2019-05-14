@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj",
+      "projectUniqueName": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj",
       "projectName": "EPS.Common.Models",
-      "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj",
+      "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj",
       "packagesPath": "C:\\Users\\Adminest\\.nuget\\packages\\",
-      "outputPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\obj\\",
+      "outputPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

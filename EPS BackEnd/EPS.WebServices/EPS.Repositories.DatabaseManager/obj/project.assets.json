@@ -883,11 +883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj",
+      "projectUniqueName": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj",
       "projectName": "EPS.Repositories.DatabaseManager",
-      "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj",
+      "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\EPS.Repositories.DatabaseManager.csproj",
       "packagesPath": "C:\\Users\\Adminest\\.nuget\\packages\\",
-      "outputPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\obj\\",
+      "outputPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Repositories.DatabaseManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -906,14 +906,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj": {
-              "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj"
+            "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj": {
+              "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Models\\EPS.Common.Models.csproj"
             },
-            "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Reads\\EPS.Common.Reads.csproj": {
-              "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Reads\\EPS.Common.Reads.csproj"
+            "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Reads\\EPS.Common.Reads.csproj": {
+              "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Reads\\EPS.Common.Reads.csproj"
             },
-            "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Writes\\EPS.Common.Writes.csproj": {
-              "projectPath": "C:\\SAMSALCO\\Proyecto Web EPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Writes\\EPS.Common.Writes.csproj"
+            "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Writes\\EPS.Common.Writes.csproj": {
+              "projectPath": "C:\\Estudio\\ProyectoWebEPS\\EPS BackEnd\\EPS.WebServices\\EPS.Common.Writes\\EPS.Common.Writes.csproj"
             }
           }
         }
